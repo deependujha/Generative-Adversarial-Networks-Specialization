@@ -1,1 +1,2 @@
-# Generative-Adversarial-Networks-Specialization
+# Generative Adversarial Networks (GANs)
+
